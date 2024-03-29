@@ -30,3 +30,9 @@ Our App is not intended for children under the age of 13. We do not knowingly co
 
 ## Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top.
+
+## Your Consent
+By using our App, you consent to our Privacy Policy.
+
+## Contact Us
+If you have any questions or suggestions about our Privacy Policy, please contact us at bilalferoze98@gmail.com.
